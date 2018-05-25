@@ -20,7 +20,7 @@
 <br>
 <form class="form-signin">
     <div class="text-center mb-4">
-        <img src="resources/admin.png" alt="" width="72" height="72">
+        <img src="../resources/admin.png" alt="" width="72" height="72">
         <h1 class="h3 mb-3 font-weight-normal">Admin</h1>
     </div>
     <div class="form-label-group">
